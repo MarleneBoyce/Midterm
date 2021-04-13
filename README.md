@@ -20,7 +20,7 @@ Page 3: Add Order
 -After file is open, the form is loaded with the products in the Combo box 
 -Ordered are saved in another text file 
 -When user hits submit, all information is appended to the text file they selected 
-- Menu Butotn implemented 
+-Menu Button implemented 
 
 Page 4: Transactions
 -Open window appears, and user picks orders text file
