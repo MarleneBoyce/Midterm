@@ -1,0 +1,10 @@
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\bin\Debug\PosSystem.exe.config
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\bin\Debug\PosSystem.exe
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\bin\Debug\PosSystem.pdb
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\obj\Debug\PosSystem.csprojAssemblyReference.cache
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\obj\Debug\PosSystem.frmWelcome.resources
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\obj\Debug\PosSystem.Properties.Resources.resources
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.GenerateResource.cache
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\obj\Debug\PosSystem.csproj.CoreCompileInputs.cache
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\obj\Debug\PosSystem.exe
+C:\Users\library\Desktop\Distributed Internet Computing\Assignments\PosSystem\PosSystem\obj\Debug\PosSystem.pdb
